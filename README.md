@@ -1,2 +1,2 @@
 # wtf
-What a flag!
+What the flag!
