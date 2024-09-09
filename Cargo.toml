@@ -1,0 +1,10 @@
+[package]
+name = "wtf"
+version = "0.1.0"
+authors = ["Ivan Zatevakhin"]
+edition = "2021"
+publish = false
+
+[dependencies]
+crossterm = "0.26"
+rand = "0.8"
